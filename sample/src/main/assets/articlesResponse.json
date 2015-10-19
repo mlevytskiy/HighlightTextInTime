@@ -1,0 +1,2259 @@
+{
+  "items": [
+    {
+      "content": "Hi! My name\u0027s Jim. I\u0027m from New Zealand. This is my friend. His name\u0027s Adam. He\u0027s from Australia. This is my friend too. Her name\u0027s Paola. She\u0027s from Italy. This is another friend. His name\u0027s Brian. He\u0027s from Canada. This is another friend. Her name\u0027s Karima. She\u0027s from Egypt. This is another friend. His name\u0027s Denis. He\u0027s from Ukraine. This is my friend Kostas. He\u0027s from Greece. This is my friend Hayley. She\u0027s from Australia too. This is my friend Gabriela. She\u0027s from Argentina. What\u0027s your name? Where are you from?",
+      "descriptionTranslation": [
+        {
+          "translation": "Текст для изучения названий стран и знакомства с употреблением глагола \"to be\" в простом настоящем времени, в его утвердительной форме.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Имена и страны",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Names and countries",
+      "tags": [
+        {
+          "tagDescription": "Possessive Pronouns",
+          "translations": [
+            {
+              "translation": "Притяжательные местоимения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Possessive Pronouns",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 2,
+          "type": 1
+        },
+        {
+          "tagDescription": "Names",
+          "translations": [
+            {
+              "translation": "Имена",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Names",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 3,
+          "type": 2
+        },
+        {
+          "tagDescription": "Countries",
+          "translations": [
+            {
+              "translation": "Страны",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Countries",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 4,
+          "type": 2
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Question sentences",
+          "translations": [
+            {
+              "translation": "Вопросительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Questions",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 80,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (he,she,it)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (he,she,it)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (he,she,it)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 130,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        },
+        {
+          "tagDescription": "Exclamatory sentences",
+          "translations": [
+            {
+              "translation": "Восклицательные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Exclamatory sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 132,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 1,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 1
+    },
+    {
+      "content": "Karima isn\u0027t Pole, she\u0027s from Egypt, she\u0027s Egyptian. Marco isn\u0027t American, he\u0027s from Italy, he\u0027s Italian. Pavel and Adam aren\u0027t Greek, they\u0027re from Poland, they\u0027re Pole. Hayley isn\u0027t British, she\u0027s from Australia, she\u0027s Australian. Brian isn\u0027t Chinese, he\u0027s from Canada, he\u0027s Canadian. I\u0027m Kelly, I\u0027m not Spanish, I\u0027m from the United States, I\u0027m American. Gabriela isn\u0027t Russian, she\u0027s from Argentina, she\u0027s Argentinean. Satomi isn\u0027t Italian, she\u0027s from Japan, she\u0027s Japanese. Samuel and me aren\u0027t Argentinean, we\u0027re from Great Britain, we\u0027re British. You aren\u0027t Egyptian, you\u0027re from China, you\u0027re Chinese.",
+      "descriptionTranslation": [
+        {
+          "translation": "В этом тексте приводятся названия стран и национальностей на английском, также этот текст дает возможность ознакомиться с употреблением глагола \"to be\" с местоимениями в единственном и множественном числе в его утвердительной и отрицательной формах.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Страны и национальности",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Countries and Nationalities",
+      "tags": [
+        {
+          "tagDescription": "Names",
+          "translations": [
+            {
+              "translation": "Имена",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Names",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 3,
+          "type": 2
+        },
+        {
+          "tagDescription": "Countries",
+          "translations": [
+            {
+              "translation": "Страны",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Countries",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 4,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Nationalities",
+          "translations": [
+            {
+              "translation": "Национальности",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Nationalities",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 19,
+          "type": 2
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Negative sentences",
+          "translations": [
+            {
+              "translation": "Отрицательные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Negative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 79,
+          "type": 1
+        },
+        {
+          "tagDescription": "Definite Article",
+          "translations": [
+            {
+              "translation": "Определенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Definite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 126,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (he,she,it)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (he,she,it)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (he,she,it)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 130,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 2,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 2
+    },
+    {
+      "content": "Kelly: What\u0027s in your bag?\nAdam: a pen, an apple, a pencil, a book, an iPod, a mobile, an umbrella, a credit card, a key, glasses, an ID card, a camera, a sandwich and a dictionary. And what\u0027s in your bag?\nKelly: 4 pens, 8 apples, 3 pencils, 2 books, an iPod too, a mobile, 2 umbrellas, 7 credit cards, 10 keys, glasses, an ID card, 3 cameras, 4 sandwiches, and 2 dictionaries.",
+      "descriptionTranslation": [
+        {
+          "translation": "Этот текст знакомит с названиями некоторых мелких повседневных предметов, дает представление об использовании артикля с существительными в единственом числе, а также знакомит с образованием множественного числа существительных в английском языке.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Вещи в моей сумке",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Things in my bag",
+      "tags": [
+        {
+          "tagDescription": "Possessive Pronouns",
+          "translations": [
+            {
+              "translation": "Притяжательные местоимения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Possessive Pronouns",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 2,
+          "type": 1
+        },
+        {
+          "tagDescription": "Small things",
+          "translations": [
+            {
+              "translation": "Названия повседневных предметов",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Small things",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 5,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Question sentences",
+          "translations": [
+            {
+              "translation": "Вопросительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Questions",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 80,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 2,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 3
+    },
+    {
+      "content": "This is a camera, cameras are from the United States. This is an umbrella, umbrellas are from Italy. This is an iPod, iPods are from Korea. This is an apple, apples are from Poland. This is a photo, photos are from Argentina. This is a book, books are from Greece. This is a bag, bags are from Ukraine. This is a car, cars are from France. This is a mobile, mobiles are from China. This is a pen, pens are from Canada. This is a dictionary, dictionaries are from Spain. This is a sandwich, sandwiches are from Sweden.",
+      "descriptionTranslation": [
+        {
+          "translation": "Этот текст знакомит с названиями мелких повседневных предметов, также с названиями стран на английском, дает представление о формировании множественного числа существительных и о правилах употребления глагола \"to be\" с единственным и множественным числом существительных.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Зонтик из Италии",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Umbrella from Italy",
+      "tags": [
+        {
+          "tagDescription": "Small things",
+          "translations": [
+            {
+              "translation": "Названия повседневных предметов",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Small things",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 5,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        },
+        {
+          "tagDescription": "Definite Article",
+          "translations": [
+            {
+              "translation": "Определенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Definite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 126,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 2,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 4
+    },
+    {
+      "content": "Hi, I\u0027m Laura from Dublin, Ireland. I\u0027m nineteen. I\u0027m a student. I\u0027m not married. Look at the photo. This is Carla and her friend Kevin. They\u0027re my friends. They aren\u0027t from Italy, they\u0027re from Germany, from Berlin. Carla is twenty-six. She\u0027s a manager. She isn\u0027t married, she\u0027s single. Kevin is thirty. He\u0027s a taxi driver. He isn\u0027t single, he\u0027s married. And this is my friend Adi from Israel. He\u0027s forty-nine. He\u0027s a businessman. He\u0027s married. Are you from Canada? How old are you? Are you a nurse?",
+      "descriptionTranslation": [
+        {
+          "translation": "Этот текст знакомит с названиями стран, профессий и числительными,  дает представление о том, как передать личную информацию о себе и других, знакомясь с людьми,  также текст дает понимание того, как употреблять глагол \"to be\" в утвердительной и отрицательной формах.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Лора, студентка из Дублина",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Laura, a student from Dublin",
+      "tags": [
+        {
+          "tagDescription": "Possessive Pronouns",
+          "translations": [
+            {
+              "translation": "Притяжательные местоимения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Possessive Pronouns",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 2,
+          "type": 1
+        },
+        {
+          "tagDescription": "Countries",
+          "translations": [
+            {
+              "translation": "Страны",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Countries",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 4,
+          "type": 2
+        },
+        {
+          "tagDescription": "Personal information",
+          "translations": [
+            {
+              "translation": "Личная информация",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal information",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 11,
+          "type": 2
+        },
+        {
+          "tagDescription": "Jobs",
+          "translations": [
+            {
+              "translation": "Профессии",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Jobs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 12,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Negative sentences",
+          "translations": [
+            {
+              "translation": "Отрицательные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Negative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 79,
+          "type": 1
+        },
+        {
+          "tagDescription": "Question sentences",
+          "translations": [
+            {
+              "translation": "Вопросительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Questions",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 80,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        },
+        {
+          "tagDescription": "Definite Article",
+          "translations": [
+            {
+              "translation": "Определенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Definite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 126,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (he,she,it)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (he,she,it)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (he,she,it)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 130,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 1,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 5
+    },
+    {
+      "content": "This is Molly from the USA. She isn\u0027t a shop assistant, she\u0027s a teacher. She\u0027s fantastic. This is John and his friend Dan from Great Britain. They aren\u0027t actors, they are builders. This is Ondar from Turkey. He isn\u0027t a student, he\u0027s a businessman. He\u0027s good-looking. This is Enrique from Italy. He\u0027s not a police officer, he\u0027s a taxi driver. He\u0027s tired. This is Pablo from Argentina and his friend Nina from Brazil. They aren\u0027t builders, they\u0027re doctors. They\u0027re nice. This is Loku from South Africa. He isn\u0027t a teacher, he\u0027s a lawyer. This is Yong from China. He isn\u0027t a student, he\u0027s a manager. This is Jenifer from the USA. She isn\u0027t a lawyer, she\u0027s an actress. She\u0027s fantastic and good-looking. This is Daril from Sweden, he isn\u0027t a taxi driver, he\u0027s a shop assistant. He\u0027s tired. Is this your friend? Where\u0027s he from? What\u0027s his name? Is he a lawyer? Is he nice?",
+      "descriptionTranslation": [
+        {
+          "translation": "Этот текст знакомит с названиями стран, профессиями и некоторыми прилагательными, показаны случаи употребления неопределенного артикля с названиями профессий, также приведены примеры употребления глагола \"to be\" в утвердительной, отрицательной и вопросительной формах.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Страны и профессии",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Countries and jobs",
+      "tags": [
+        {
+          "tagDescription": "Possessive Pronouns",
+          "translations": [
+            {
+              "translation": "Притяжательные местоимения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Possessive Pronouns",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 2,
+          "type": 1
+        },
+        {
+          "tagDescription": "Countries",
+          "translations": [
+            {
+              "translation": "Страны",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Countries",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 4,
+          "type": 2
+        },
+        {
+          "tagDescription": "Jobs",
+          "translations": [
+            {
+              "translation": "Профессии",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Jobs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 12,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Negative sentences",
+          "translations": [
+            {
+              "translation": "Отрицательные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Negative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 79,
+          "type": 1
+        },
+        {
+          "tagDescription": "Question sentences",
+          "translations": [
+            {
+              "translation": "Вопросительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Questions",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 80,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        },
+        {
+          "tagDescription": "Definite Article",
+          "translations": [
+            {
+              "translation": "Определенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Definite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 126,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (he,she,it)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (he,she,it)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (he,she,it)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 130,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 1,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 6
+    },
+    {
+      "content": "First name: Adrian.\nSurname: Martinez.\nCountry: Australia.\nTown/city: Sydney.\nAge: 32.\nAddress: 254 Crown str.\nPhone number: 6 5 2 - 9 4 - 3 7.\nEmail address: adr.Martinez@gmail.com.\nJob: lawyer.\nMarried: No.",
+      "descriptionTranslation": [
+        {
+          "translation": "В этом тексте приводится пример заполнения анкеты с личной информацией.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Профиль фейсбук",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Facebook profile",
+      "tags": [
+        {
+          "tagDescription": "Personal information",
+          "translations": [
+            {
+              "translation": "Личная информация",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal information",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 11,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 0,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 7
+    },
+    {
+      "content": "This is our neighbour Grace Taylor and her big family. Grace is retired. She has a son and a daughter. Her daughter\u0027s name is Anne, she\u0027s married. Her husband\u0027s name is Jim. He\u0027s a lawyer. They have two children, a son Kevin and a daughter Nicola. Their children are students. Kevin\u0027s sister is twelve and Nicola\u0027s brother is fifteen. Anne is a good wife, a mother and a sister. Anne\u0027s brother isn\u0027t married, but he has a girlfriend Nina. He\u0027s a taxi driver and his girlfriend is a shop assistant. Nina is nice. Her father is a taxi driver too. Nina and I are friends. Our fathers are friends too. We have a neighbour. Our neighbour is Grace. She\u0027s a good grandmother and a good neighbour.",
+      "descriptionTranslation": [
+        {
+          "translation": "В этом тексте описана семья, упоминаются професии членов семьи и приводятся прилагательные, которые описывают качества человека. Также приведены примеры  употребления притяжательного падежа существительных, который указывает на принадлежность существительного тому или иному лицу.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Наша соседка и ее семья",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Our neighbour and her family",
+      "tags": [
+        {
+          "tagDescription": "Possessive Pronouns",
+          "translations": [
+            {
+              "translation": "Притяжательные местоимения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Possessive Pronouns",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 2,
+          "type": 1
+        },
+        {
+          "tagDescription": "Jobs",
+          "translations": [
+            {
+              "translation": "Профессии",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Jobs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 12,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Negative sentences",
+          "translations": [
+            {
+              "translation": "Отрицательные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Negative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 79,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (he,she,it)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (he,she,it)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (he,she,it)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 130,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        },
+        {
+          "tagDescription": "Family",
+          "translations": [
+            {
+              "translation": "Семья",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Family",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 133,
+          "type": 2
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 1,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 8
+    },
+    {
+      "content": "This is our mother, she\u0027s nice and beautiful. She has two sisters and a brother. Her brother is old and funny. Her sisters are friendly. This is our father. He\u0027s great. This is my husband. He\u0027s great too. We have two daughters. They are friendly and beautiful. We have a dog, it\u0027s old, but it isn\u0027t bad. \nWe have an unfriendly neighbour, he\u0027s ugly. \nOur children have a new camera, it\u0027s expensive. They have two iPods too, they aren\u0027t cheap. This is our cat, it\u0027s small and funny. This is our photo. We are a beautiful and happy family. This is my old mobile, it\u0027s bad and ugly. My new mobile is good and nice.\nWe are in a café now. It\u0027s small and cold, but nice. People are friendly and funny here. We have hot sandwiches, they aren\u0027t expensive. My husband has tea, it\u0027s cheap. I have coffee, it\u0027s expensive and bad. His tea is hot and my coffee is cold. It\u0027s funny. They have books here in the café. The books are big and small, new and old, cheap and expensive.",
+      "descriptionTranslation": [
+        {
+          "translation": "Основной акцент в тексте сделан на новых прилагательных, которые описывают качества и свойства человека или предмета. Текст также дает возможность освежить в памяти названия членов семьи, мелких повседневных предметов и притяжательные местоимения, напоминает правила употребления глаголов \"to have\", \"to be\".",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Старый мобильный, забавный кот",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "An old mobile, a funny cat",
+      "tags": [
+        {
+          "tagDescription": "Possessive Pronouns",
+          "translations": [
+            {
+              "translation": "Притяжательные местоимения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Possessive Pronouns",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 2,
+          "type": 1
+        },
+        {
+          "tagDescription": "Small things",
+          "translations": [
+            {
+              "translation": "Названия повседневных предметов",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Small things",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 5,
+          "type": 2
+        },
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Negative sentences",
+          "translations": [
+            {
+              "translation": "Отрицательные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Negative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 79,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        },
+        {
+          "tagDescription": "Definite Article",
+          "translations": [
+            {
+              "translation": "Определенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Definite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 126,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (he,she,it)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (he,she,it)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (he,she,it)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 130,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 0,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 9
+    },
+    {
+      "content": "We have stereotypes about people and food. Americans like Coke and hamburgers. Chinese eat a lot of rice and drink green tea. Italians eat only pizza and pasta. Germans drink a lot of beer and love sausages. French drink a lot of wine and love cheese. Ukrainians eat a lot of potatoes and like meat. English drink tea with milk. Japanese eat a lot of fish. Women love chocolate. Men love beer. Children love ice-cream. Vegetarians eat only vegetables and fruit. Europeans and Americans drink a lot of coffee.",
+      "descriptionTranslation": [
+        {
+          "translation": "В этом тексте описываются некоторые стереотипы о разных народах и их пристрастиях в еде, тем самым знакомя читателя с названиями блюд и продуктов на английском. Текст также знакомит с некоторыми глаголами по теме \"Еда/напитки\" и правилами их употребления в настоящем простом времени.",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "titleTranslation": [
+        {
+          "translation": "Стереотипы о еде и национальностях",
+          "languageLongName": "Russian",
+          "languageShortName": "ru_RU",
+          "idLanguage": 1
+        }
+      ],
+      "title": "Stereotypes about food and nationalities",
+      "tags": [
+        {
+          "tagDescription": "Adjectives",
+          "translations": [
+            {
+              "translation": "Прилагательные",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adjectives",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 13,
+          "type": 1
+        },
+        {
+          "tagDescription": "Food/drinks",
+          "translations": [
+            {
+              "translation": "Еда/напитки",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Food/drinks",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 18,
+          "type": 2
+        },
+        {
+          "tagDescription": "Nationalities",
+          "translations": [
+            {
+              "translation": "Национальности",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Nationalities",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 0,
+          "idTag": 19,
+          "type": 2
+        },
+        {
+          "tagDescription": "Present Simple",
+          "translations": [
+            {
+              "translation": "Настоящее простое время",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Present Simple",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 20,
+          "type": 1
+        },
+        {
+          "tagDescription": "Adverbs",
+          "translations": [
+            {
+              "translation": "Наречия",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Adverbs",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 55,
+          "type": 1
+        },
+        {
+          "tagDescription": "Affirmative sentences",
+          "translations": [
+            {
+              "translation": "Утвердительные предложения",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Affirmative sentences",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 78,
+          "type": 1
+        },
+        {
+          "tagDescription": "Indefinite Article",
+          "translations": [
+            {
+              "translation": "Неопределенный артикль",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Indefinite Article",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 125,
+          "type": 1
+        },
+        {
+          "tagDescription": "Personal Pronouns (I,we,you,they)",
+          "translations": [
+            {
+              "translation": "Личные местоимения (I,we,you,they)",
+              "languageLongName": "Russian",
+              "languageShortName": "ru_RU",
+              "idLanguage": 1
+            },
+            {
+              "translation": "Personal Pronouns (I,we,you,they)",
+              "languageLongName": "English",
+              "languageShortName": "en_US",
+              "idLanguage": 2
+            }
+          ],
+          "occurences": 0,
+          "proficiencyLevel": 4,
+          "idTag": 131,
+          "type": 1
+        }
+      ],
+      "podcastDuration": 0,
+      "hasPodcast": true,
+      "textStatus": 0,
+      "isFullyCompiled": false,
+      "isAddedByUser": false,
+      "id": 10
+    }
+  ],
+  "count": 193
+}

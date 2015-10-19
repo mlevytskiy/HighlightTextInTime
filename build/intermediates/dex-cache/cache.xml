@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/max/project/HighlightTextInTime/sample/build/intermediates/exploded-aar/HighlightTextInTime/highlightTextInTimeLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d8ffb748385a51ebc7bd5ce16f058f8d7b57aca3">
+        <dex dex="/Users/max/project/HighlightTextInTime/sample/build/intermediates/pre-dexed/debug/classes-86e6f425aef8883c709c955011f69a62b2ecd17c.jar" />
+    </item>
+
+</items>
